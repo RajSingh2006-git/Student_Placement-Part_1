@@ -1,14 +1,17 @@
-<<<<<<< HEAD
-# Student_Placement-Part_1
-=======
 # 🎓 Student Placement Analytics & Machine Learning Predictor
 
 An interactive Machine Learning web application built with **Streamlit**, **Scikit-Learn**, and **Plotly** to analyze student academic metrics (IQ & CGPA) and predict campus placement status.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Live Demo](https://img.shields.io/badge/Streamlit_App-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://studentplacement-part1-8d9iurtpukngtxj6z86cfx.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange?style=for-the-badge&logo=scikitlearn)
+
+---
+
+## 🌐 Live Web Application
+
+The app is live and deployed on Streamlit Community Cloud:
+👉 **[Click Here to Access Live App](https://studentplacement-part1-8d9iurtpukngtxj6z86cfx.streamlit.app/)**
 
 ---
 
@@ -80,17 +83,12 @@ This repository contains the complete end-to-end Machine Learning pipeline and w
 
 ---
 
-## 🌐 Cloud Deployment (Streamlit Community Cloud)
+## 🌐 Deployment Details
 
-You can easily deploy this repository to **Streamlit Community Cloud**:
-
-1. Push this repository to your GitHub account (`RajSingh2006-git/Student_Placement-Part_1`).
-2. Visit [share.streamlit.io](https://share.streamlit.io/) and log in with your GitHub account.
-3. Click **"New app"** and select:
-   - **Repository:** `RajSingh2006-git/Student_Placement-Part_1`
-   - **Branch:** `main`
-   - **Main file path:** `app.py`
-4. Click **Deploy!**
+- **Deployment URL:** [https://studentplacement-part1-8d9iurtpukngtxj6z86cfx.streamlit.app/](https://studentplacement-part1-8d9iurtpukngtxj6z86cfx.streamlit.app/)
+- **Hosting Platform:** Streamlit Community Cloud
+- **Repository:** `RajSingh2006-git/Student_Placement-Part_1`
+- **Main Entry Point:** `app.py`
 
 ---
 
@@ -107,4 +105,3 @@ You can easily deploy this repository to **Streamlit Community Cloud**:
 ## 👤 Author
 
 - **Raj Singh** - [RajSingh2006-git](https://github.com/RajSingh2006-git)
->>>>>>> b07a725 (Initial commit: Student Placement ML dataset, Streamlit app, notebook, and documentation)
